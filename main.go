@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	reader, err := os.Open("testdata/chuck.jpg")
+	reader, err := os.Open("testdata/org.jpg")
 	if err != nil {
 		log.Fatalf("Could not open file: %s", err)
 	}
