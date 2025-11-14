@@ -2,6 +2,6 @@
 
 Very basic image ascii converer, this is a building block for next project which is Video to Ascii
 
-Solarized dark             |  Solarized Ocean
+Original (Chuck)             |  ASCII
 :-------------------------:|:-------------------------:
-![](testdata/chuck.jpg)  |  ![](output.txt)
+![](testdata/chuck.jpg)  |  ![](output.png)
